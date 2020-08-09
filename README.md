@@ -7,7 +7,7 @@ Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 ## Sharing Data and Contributions on HydroShare
 
-Link to the [HydroLearn Intelligent Earth Group on HydroShare](https://www.hydroshare.org/group/161) and [Intelligent Earth Collective resource](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/)
+Link to the [HydroLearn Intelligent Earth Group on HydroShare](https://www.hydroshare.org/group/161), [Intelligent Earth Collective Resource](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/) and [Intelligent Earth Zotero Group](https://www.zotero.org/groups/2526780/intelligent_earth)
 
 Click [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/hydroshare/https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21
 ) to open the Intelligent-Earth-References.ipynb Notebook on HydroShare using Binder.
