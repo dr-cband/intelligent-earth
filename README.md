@@ -18,8 +18,8 @@ https://edx.hydrolearn.org/
 ## Innovating Learning Resources at Hackweeks
 View [Learning Resources for Waterhackweek](https://waterhackweek.github.io/learning-resources/)
 
-Click Badge below to launch starter Notebook to play with - it's a really fancy calculator!
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rapid-research/rapid-nationalwatermodel/master?filepath=notebooks%2Frapid-jupyternotebook.ipynb)
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rapid-research/rapid-nationalwatermodel/master?filepath=notebooks%2Frapid-jupyternotebook.ipynb) to launch starter Notebook to play with - it's a really fancy calculator!
+
 
 ## Expanding Learning Communities on Qiqochat 
 http://waterhack.qiqochat.com/
